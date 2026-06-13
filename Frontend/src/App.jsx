@@ -27,7 +27,7 @@ function App() {
       setLoading(true);
 
       const response = await axios.post(
-        "http://localhost:5000/api/url/shorten",
+        "https://smart-url-shortener-zull.onrender.com/api/url/shorten",
         {
           original_url: url,
         }
