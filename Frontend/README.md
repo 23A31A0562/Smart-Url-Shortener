@@ -1,16 +1,68 @@
-# React + Vite
+# 🔗 Smart URL Shortener
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern full-stack URL Shortener application built using React, Express.js, and Supabase that instantly generates secure short links along with downloadable QR codes.
 
-Currently, two official plugins are available:
+##  Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Frontend:
+https://smart-url-shortener-gamma.vercel.app
 
-## React Compiler
+Backend API:
+https://smart-url-shortener-zull.onrender.com
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🔗 Generate Short URLs instantly
+- 📱 Automatic QR Code Generation
+- 📋 One-click Copy Short URL
+- ⬇️ Download QR Code
+- 🔄 URL Redirection
+- 📱 Responsive UI
+- ☁️ Cloud Deployment
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+- React.js
+- Vite
+- CSS3
+- Axios
+- React Hot Toast
+- React Icons
+
+### Backend
+- Node.js
+- Express.js
+
+### Database
+- Supabase
+
+### Deployment
+- Vercel
+- Render
+- GitHub
+
+---
+
+## 📂 Project Structure
+
+```
+Frontend/
+Backend/
+```
+
+---
+
+## 📸 Screenshots
+
+(Add your project screenshots here)
+
+---
+
+##  Author
+
+Made with ❤️ by Vipparthi Bhargav
